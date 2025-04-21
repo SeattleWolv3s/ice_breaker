@@ -1,0 +1,10 @@
+^C:\USERS\BEN P\DESKTOP\ICE_BREAKER\ICE_BREAKER\BUILD\CMAKEFILES\CB87D6521BD4B63E9044B9612CB8C7BD\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Ben P/Desktop/Ice_breaker/ice_breaker" "-BC:/Users/Ben P/Desktop/Ice_breaker/ice_breaker/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Ben P/Desktop/Ice_breaker/ice_breaker/build/ice_breaker.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
