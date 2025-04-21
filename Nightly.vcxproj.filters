@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Ben P\Desktop\Ice_breaker\ice_breaker\build\CMakeFiles\cb87d6521bd4b63e9044b9612cb8c7bd\Nightly.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Ben P\Desktop\Ice_breaker\ice_breaker\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Ben P\Desktop\Ice_breaker\ice_breaker\build\CMakeFiles\Nightly" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{71779A8E-FF23-378F-83EA-1AA6153ACB30}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
