@@ -1,3 +1,0 @@
-C:/Users/Ben P/Desktop/Ice_breaker/helloworld/build/CMakeFiles/babysteps.dir
-C:/Users/Ben P/Desktop/Ice_breaker/helloworld/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Ben P/Desktop/Ice_breaker/helloworld/build/CMakeFiles/ZERO_CHECK.dir
